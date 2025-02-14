@@ -10,7 +10,9 @@ Sou um profissional apaixonado e versátil, combinando minha expertise em **Banc
 
 **Tecnologias e Ferramentas:**
 
-* **Linguagens de Programação:** C#, PHP, Python, NodeJS
+* **Linguagens de Programação:** C#, PHP, Python, NodeJS, DotNet
+* **Frameworks (Backend):** Symfony, Express.js, Flask API
+* **Frameworks (Frontend/CSS):** Bootstrap, Tailwind CSS
 * **Banco de Dados:** MariaDB, MySQL, PostgreSQL
 * **DevOps & Infraestrutura:** Docker, Linux, Windows
 * **Outros:**  Automação de Equipamentos Médicos
@@ -21,7 +23,7 @@ Sou um profissional apaixonado e versátil, combinando minha expertise em **Banc
 
 **Sobre Mim:**
 
-Com uma formação multidisciplinar, trago uma perspectiva única para a resolução de problemas. Minha experiência em engenharia biomédica me proporciona um olhar atento às necessidades do setor da saúde, enquanto minhas habilidades em desenvolvimento full-stack me permitem criar soluções inovadoras e completas, desde o back-end robusto até interfaces de usuário intuitivas.  **Como CIO da Clínica Masterclin, aplico meus conhecimentos para otimizar processos, implementar novas tecnologias e garantir a infraestrutura de TI necessária para o sucesso da clínica.**
+Com uma formação multidisciplinar, trago uma perspectiva única para a resolução de problemas. Minha experiência em engenharia biomédica me proporciona um olhar atento às necessidades do setor da saúde, enquanto minhas habilidades em desenvolvimento full-stack me permitem criar soluções inovadoras e completas, desde o back-end robusto até interfaces de usuário intuitivas.  Como CIO da Clínica Masterclin, aplico meus conhecimentos para otimizar processos, implementar novas tecnologias e garantir a infraestrutura de TI necessária para o sucesso da clínica.
 
 Sou um entusiasta por tecnologia e busco constantemente aprimorar minhas habilidades e conhecimentos. Adoro desafios e trabalhar em projetos que me permitam aplicar minha expertise em diferentes áreas.
 
