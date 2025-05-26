@@ -10,8 +10,8 @@ Sou um profissional apaixonado e versátil, combinando minha expertise em **Banc
 
 **Tecnologias e Ferramentas:**
 
-* **Linguagens de Programação:** C#, PHP, Python, NodeJS, DotNet
-* **Frameworks (Backend):** Symfony, Express.js, Flask API
+* **Linguagens de Programação:** C#, PHP, Python, NodeJS
+* **Frameworks (Backend):** Symfony, Express.js, Fast API
 * **Frameworks (Frontend/CSS):** Bootstrap, Tailwind CSS
 * **Banco de Dados:** MariaDB, MySQL, PostgreSQL
 * **DevOps & Infraestrutura:** Docker, Linux, Windows
