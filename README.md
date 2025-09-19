@@ -100,7 +100,7 @@ Sou um profissional apaixonado e versátil, combinando minha expertise em **Banc
 - **Go:** Fiber + GORM + MySQL
 
 ### Frontend Applications
-- **Web Apps:** Next.js + Drizzle ORM + MySQL
+- **Web Apps:** Next.js + Prisma ORM + MySQL
 - **UI Components:** React + Shadcn/ui + TailwindCSS
 - **Landing Pages:** Astro Build (Static Site Generation)
 - **Mobile Apps:** React Native
