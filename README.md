@@ -12,7 +12,7 @@
 
 **Especialista em Banco de Dados | Engenheiro Biomédico | Desenvolvedor Full-Stack | CIO da Clínica Masterclin**
 
-Sou um profissional apaixonado e versátil, combinando minha expertise em **Banco de Dados** e **Engenharia Biomédica** com habilidades sólidas em **Desenvolvimento Full-Stack**. Atualmente, como **CIO da Clínica Masterclin**, lidero a estratégia de tecnologia da informação, impulsionando a inovação e a eficiência operacional na área da saúde.
+Sou um profissional apaixonado e versátil, combinando minha expertise em **Banco de Dados** e **Engenharia Biomédica** com habilidades sólidas em **Desenvolvimento Full-Stack**. Atualmente, como **CTO da Clínica Masterclin**, lidero a estratégia de tecnologia da informação, impulsionando a inovação e a eficiência operacional na área da saúde.
 
 📍 **Localização:** Boa Vista, Roraima, Brasil
 
