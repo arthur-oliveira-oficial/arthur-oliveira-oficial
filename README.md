@@ -1,146 +1,145 @@
-# Olá! 👋 Eu sou Arthur Oliveira
-
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-oficial/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_oliveira_oficial/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5595984037672)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Arthur%20Oliveira&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20Engenharia%20Biom%C3%A9dica&descSize=16&descAlignY=60" width="100%" alt="Arthur Oliveira" />
 
-</div>
+**CIO da Clínica Masterclin** · Boa Vista, Roraima 🇧🇷
 
-## 👨‍💻 Sobre Mim
+Construo software para saúde, gestão e serviços: de sistemas web completos a integrações com equipamentos laboratoriais.
 
-**Especialista em Banco de Dados | Engenheiro Biomédico | Desenvolvedor Full-Stack | CIO da Clínica Masterclin**
-
-Sou um profissional apaixonado e versátil, combinando minha expertise em **Banco de Dados** e **Engenharia Biomédica** com habilidades sólidas em **Desenvolvimento Full-Stack**. Atualmente, como **CTO da Clínica Masterclin**, lidero a estratégia de tecnologia da informação, impulsionando a inovação e a eficiência operacional na área da saúde.
-
-📍 **Localização:** Boa Vista, Roraima, Brasil
-
----
-
-## 🚀 Stack Tecnológica
-
-### Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=go&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Landing Pages & Static Sites
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Database & ORM
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
-![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Data Visualization
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-### API Development & Testing
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Project Management & Organization
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### Version Control & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 💼 Experiência Profissional
-
-🏥 **CIO - Clínica Masterclin**
-- Liderança estratégica em tecnologia da informação na área da saúde
-- Automação de equipamentos de análise clínica e ultrassom
-- Implementação de soluções tecnológicas para otimização de processos
-- Gestão de infraestrutura de TI e segurança de dados
-
-💻 **Desenvolvedor Full-Stack**
-- Desenvolvimento de aplicações web completas com arquiteturas modernas
-- APIs RESTful robustas e escaláveis
-- Interfaces responsivas e acessíveis
-- Integração de sistemas e automação de processos
-
----
-
-## 🏗️ Arquiteturas de Projeto
-
-### Backend APIs
-- **PHP:** Symfony + Doctrine ORM + MySQL
-- **Python:** FastAPI + SQLModel + MySQL
-- **Next.js:** Prisma ORM + MySQL
-
-- **Go:** Fiber + GORM + MySQL
-
-### Frontend Applications
-- **Web Apps:** Next.js + Prisma ORM + MySQL
-- **UI Components:** React + Shadcn/ui + TailwindCSS
-- **Landing Pages:** Astro Build (Static Site Generation)
-- **Mobile Apps:** React Native
-
-### Data & Analytics
-- **Visualizações:** Chart.js para dashboards interativos
-- **Documentação:** Swagger para APIs
-- **Testes:** Postman para desenvolvimento e validação de APIs
-
-### Metodologia & Organização
-- **Gestão de Projetos:** Notion + Trello com metodologia Kanban
-- **Versionamento:** Git + GitHub com GitFlow
-- **DevOps:** Docker para containerização
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-oliveira-oficial&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-oliveira-oficial&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-oficial/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_oliveira_oficial/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5595984037672)
+![Profile views](https://komarev.com/ghpvc/?username=arthur-oliveira-oficial&style=flat-square&color=0ea5e9&label=visitas)
 
 </div>
 
 ---
 
-## 🤝 Vamos Conectar?
+### Sobre mim
 
-Estou sempre aberto a novos desafios e oportunidades de colaboração! Se você tem um projeto interessante ou quer discutir tecnologia, não hesite em me contatar.
+Sou especialista em **banco de dados**, **engenheiro biomédico** e **desenvolvedor full-stack**. Como CIO da Clínica Masterclin, cuido da estratégia de tecnologia: sistemas internos, infraestrutura, segurança de dados e automação de equipamentos de análises clínicas e de imagem.
+
+Fora da clínica, desenvolvo produtos sob medida para empresas de Roraima e de outros estados, com foco em código bem organizado, tipagem forte e entrega em produção.
+
+```yaml
+foco_atual:   SaaS full-stack com React, Hono/Bun e Prisma
+background:   Engenharia Biomédica + Banco de Dados
+interesses:   integração de equipamentos médicos, arquitetura por domínio, IA aplicada
+em_busca_de:  desafios técnicos
+```
+
+### Em números
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-oficial/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_oliveira_oficial/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5595984037672)
+| 50+ | 11 | 8 | 3 |
+|:---:|:---:|:---:|:---:|
+| **repositórios** | **sites em produção** | **integrações com equipamentos médicos** | **apps mobile** |
 
-**💡 "A tecnologia é melhor quando aproxima as pessoas" - Matt Mullenweg**
+</div>
 
-⭐ *Sinta-se à vontade para explorar meus repositórios e deixar uma estrela se algo for útil!*
+### O que eu construo
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 Saúde e laboratório**
+
+Sistemas de gestão clínica, recepção de imagens radiológicas **DICOM**, comparador de tabelas de preço de exames e interfaces que leem resultados direto de analisadores (Sysmex, Finecare, WE-300, STA Satellite Max, entre outros) por serial e rede.
+
+</td>
+<td width="50%" valign="top">
+
+**💼 SaaS e gestão**
+
+Plataformas de inscrição para concursos com pagamento por boleto/Pix, gestão imobiliária com avaliação por IA e laudos em PDF, gestão financeira, precificação para restaurantes, controle do ciclo do ouro e RH.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📱 Mobile**
+
+Apps com **Expo / React Native** e **Capacitor** (Android e iOS), com push notifications, câmera, geolocalização e mapas.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Sites institucionais**
+
+Sites rápidos e otimizados para SEO com **Astro**, **React Router** e **Next.js** para clínicas, laboratórios, cartórios e agências.
+
+</td>
+</tr>
+</table>
+
+### Projetos open source
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**parrot-php**](https://github.com/arthur-oliveira-oficial/parrot-php) | Micro framework PHP para APIs REST de alta performance · [site](https://parrot-php-site.vercel.app/) | PHP 8.4 · PSR-7/15 · FastRoute · Eloquent |
+| [**votecerto**](https://github.com/arthur-oliveira-oficial/votecerto) | Plataforma de votação online com comunidades, sessões e resultados em tempo real | Next.js 16 · Prisma · MariaDB · JWT |
+| [**skills**](https://github.com/arthur-oliveira-oficial/skills) | Skills para agentes de IA (Claude Code, Codex): engenharia guiada por evidências e frontend | Markdown · Agent Skills |
+
+### Stack
+
+<div align="center">
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,go,kotlin&theme=dark" alt="Linguagens" />
+
+**Frontend e mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,astro,materialui&theme=dark" alt="Frontend" />
+<br />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
+<img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=bun,nodejs,flask,fastapi,symfony&theme=dark" alt="Backend" />
+<br />
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+<img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+
+**Dados**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,prisma&theme=dark" alt="Dados" />
+<br />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+
+**Infra e ferramentas**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel,git,github&theme=dark" alt="Infra" />
+
+</div>
+
+### Como eu trabalho
+
+- **Arquitetura por domínio:** cada módulo com suas rotas, regras e dados, para o projeto crescer sem virar bagunça.
+- **Tipagem de ponta a ponta:** TypeScript, Zod e Prisma garantindo contratos do banco até a interface.
+- **APIs documentadas:** OpenAPI com Scalar desde o primeiro endpoint.
+- **IA no fluxo de desenvolvimento:** uso agentes de código com processos definidos de planejamento, testes e revisão.
+
+---
+
+<div align="center">
+
+**Tem um projeto ou um desafio técnico?** Vamos conversar.
+
+[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-oficial/)
+[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5595984037672)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%" alt="" />
 
 </div>
